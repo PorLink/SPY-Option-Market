@@ -27,9 +27,6 @@ Per-expiry linear regression of `C−P` vs strike. RMS residuals of ~2–20¢ co
 ### 5. Greek Risk Maps
 Gamma / vega / theta heatmaps across the surface. Key finding: **gamma concentrates at short-dated ATM, vega at long-dated ATM** — the diagonal separation that makes hedging and inventory limits tenor-specific.
 
-### 6. Daily Evolution
-Time series of ATM IV, 25Δ risk reversal, spread, and put/call volume ratio across the 5-day window. A coherent "fear-spike-then-calming" arc centered on 08-02, cross-confirmed by three independent indicators.
-
 ---
 
 ## Files
